@@ -17,6 +17,13 @@ code {
   border-right: solid 1px #f3f3f3;
   height:100vh;
 }
+.nav>.nav-item>a{
+	color:#777a7c!important;
+	}
+	.nav>.nav-item>a:hover,.nav>.nav-item>a.active{
+	color:#000000!important;
+	font-weight:600;
+	}
 .mainpage{
 display:flex;
 }
